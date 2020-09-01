@@ -2,6 +2,8 @@
 *** Template em https://github.com/othneildrew/Best-README-Template
 -->
 
+<center>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -9,13 +11,13 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+</center>
+
 <!-- PROJECT LOGO -->
-<br />
+
 <p align="center">
-  <a href="https://github.com/gerjunior/typescript-lint-template">
-    <img src="assets/gift.png" alt="Logo" width="100", height="100">
-  </a>
   <h3 align="center">Typescript Lint Template</h3>
+
 
   <p align="center">
     <br />
@@ -23,7 +25,7 @@
     ·
     <a href="https://github.com/gerjunior/typescript-lint-template/issues">Request a Feature</a>
   </p>
-</p>
+
 
 <!-- TABLE OF CONTENTS -->
 
