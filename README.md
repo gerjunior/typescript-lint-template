@@ -101,6 +101,6 @@ Contributions are what make the open source community such an amazing place to b
 [issues-shield]: https://img.shields.io/github/issues/gerjunior/typescript-lint-template.svg?style=flat-square
 [issues-url]: https://github.com/gerjunior/typescript-lint-template/issues
 [license-shield]: https://img.shields.io/github/license/gerjunior/typescript-lint-template.svg?style=flat-square
-[license-url]: https://github.com/gerjunior/typescript-lint-template/blob/master/LICENSE.txt
+[license-url]: https://github.com/gerjunior/typescript-lint-template/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gerjunior
